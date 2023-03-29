@@ -1,0 +1,4 @@
+baseURL = 'https://simoneeti.github.io/'
+languageCode = 'es-ar'
+title = 'Simón Vintrob - UNA Artes Multimediales'
+theme = 'ananke'
