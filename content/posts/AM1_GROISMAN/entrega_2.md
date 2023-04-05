@@ -5,8 +5,13 @@ draft: false
 ---
 # ANTISELFIE - Segunda entrega 
 
-![Amanecer](/docs/posts/images/tp1_corr2/1_amanecernt.jpg "Amanecer")
-![Caminski](/docs/posts/images/tp1_corr2/2_camuli_colored.jpg "Caminski")
-![Matienzo](/docs/posts/images/tp1_corr2/3_matute.jpg "Matienzo")
-![Tomatuli](/docs/posts/images/tp1_corr2/4_tomate.jpg "Tomatuli")
-![Quilombo](/docs/posts/images/tp1_corr2/5_quilombuli.jpg "Quilombo")
+![Amanecer](/docs/posts/images/tp1_corr2/2/0_amanecer_colored.jpg "Amanecer")
+![Caminski](/docs/posts/images/tp1_corr2/2/1_camuli_colored.jpg "Caminski")
+![Matienzo](/docs/posts/images/tp1_corr2/2/2_matute.jpg "Matienzo")
+![Tomatuli](/docs/posts/images/tp1_corr2/2/3_tomate.jpg "Tomatuli")
+![Quilombo](/docs/posts/images/tp1_corr2/2/4_quilombuli.jpg "Quilombo")
+![Imperio](/docs/posts/images/tp1_corr2/2/5_imperio.jpg "Imperio")
+![Luis](/docs/posts/images/tp1_corr2/2/6_luis.jpg "Luis")
+![Vasos](/docs/posts/images/tp1_corr2/2/7_vasos.jpg "Vasos")
+![Anochecer](/docs/posts/images/tp1_corr2/2/8_anochecer.jpg "Anochecer")
+![Lara](/docs/posts/images/tp1_corr2/2/9_larvy.jpg "Lara")
