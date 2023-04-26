@@ -24,3 +24,16 @@ draft: false
 ![Nueces](/docs/posts/images/tp1_entregafinal/9_nueces.jpg "Nueces")
 
 ![Larvy](/docs/posts/images/tp1_entregafinal/10_larvy.jpg "Larvy")
+
+
+# IA
+
+![jipis](/docs/posts/images/tp1_entregafinal/ia/hippiesfascistas.png "Cama")
+
+![jipis](/docs/posts/images/tp1_entregafinal/ia/optimista.png "Cama")
+
+![jipis](/docs/posts/images/tp1_entregafinal/ia/perro.png "Cama")
+
+![jipis](/docs/posts/images/tp1_entregafinal/ia/tutti.png "Cama")
+
+![jipis](/docs/posts/images/tp1_entregafinal/ia/todo_junto.png "Cama")
