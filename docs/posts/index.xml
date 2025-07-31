@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Simón Vintrob</title>
-    <link>https://simoneeti.github.io/docs/posts/</link>
+    <link>http://localhost:1313/docs/posts/</link>
     <description>Recent content in Posts on Simón Vintrob</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 30 Jul 2025 23:39:25 -0300</lastBuildDate>
-    <atom:link href="https://simoneeti.github.io/docs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zwei Jahre Später</title>
-      <link>https://simoneeti.github.io/docs/posts/simon/zwei-jahre-spater/</link>
+      <link>http://localhost:1313/docs/posts/simon/zwei-jahre-spater/</link>
       <pubDate>Wed, 30 Jul 2025 23:39:25 -0300</pubDate>
-      <guid>https://simoneeti.github.io/docs/posts/simon/zwei-jahre-spater/</guid>
+      <guid>http://localhost:1313/docs/posts/simon/zwei-jahre-spater/</guid>
       <description>Si diez años después, te vuelvo a encontrar en algún lugar. No te olvides que soy distinto de aquel, pero casi igual&#xA;Dos años más tarde, vuelvo a escribir acá.&#xA;Mucho cambió en dos años, y mucho siguió su curso natural. Por ejemplo, en este país cada vez más decadente ahora gobierna milei (en minúscula). Se cae todo a pedazos en todos lados salvo de Rivadavia para arriba. Todos los miércoles la policía caga a piñas a los jubilados y a los residentes del Garrahan en la plaza de los dos Congresos.</description>
     </item>
     <item>
       <title>AM1 Groisman TP 1 - Entrega final</title>
-      <link>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_final/</link>
+      <link>http://localhost:1313/docs/posts/am1_groisman/entrega_final/</link>
       <pubDate>Wed, 26 Apr 2023 16:00:33 -0300</pubDate>
-      <guid>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_final/</guid>
+      <guid>http://localhost:1313/docs/posts/am1_groisman/entrega_final/</guid>
       <description>ANTISELFIE - Entrega Final IA </description>
     </item>
     <item>
       <title>AM1 Groisman TP 1 - 4ta entrega</title>
-      <link>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_4/</link>
+      <link>http://localhost:1313/docs/posts/am1_groisman/entrega_4/</link>
       <pubDate>Wed, 19 Apr 2023 16:00:33 -0300</pubDate>
-      <guid>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_4/</guid>
+      <guid>http://localhost:1313/docs/posts/am1_groisman/entrega_4/</guid>
       <description>ANTISELFIE - Cuarta entrega </description>
     </item>
     <item>
       <title>AM1 Groisman TP 1 - 3ra entrega</title>
-      <link>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_3/</link>
+      <link>http://localhost:1313/docs/posts/am1_groisman/entrega_3/</link>
       <pubDate>Wed, 12 Apr 2023 16:00:33 -0300</pubDate>
-      <guid>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_3/</guid>
+      <guid>http://localhost:1313/docs/posts/am1_groisman/entrega_3/</guid>
       <description>ANTISELFIE - Tercera entrega </description>
     </item>
     <item>
       <title>Collage namber 1 PV1</title>
-      <link>https://simoneeti.github.io/docs/posts/pv1/collage1/</link>
+      <link>http://localhost:1313/docs/posts/pv1/collage1/</link>
       <pubDate>Fri, 07 Apr 2023 16:00:33 -0300</pubDate>
-      <guid>https://simoneeti.github.io/docs/posts/pv1/collage1/</guid>
+      <guid>http://localhost:1313/docs/posts/pv1/collage1/</guid>
       <description>Collage nro. 1 </description>
     </item>
     <item>
       <title>AM1 Groisman TP 1 - 2da entrega</title>
-      <link>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_2/</link>
+      <link>http://localhost:1313/docs/posts/am1_groisman/entrega_2/</link>
       <pubDate>Mon, 03 Apr 2023 16:00:33 -0300</pubDate>
-      <guid>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_2/</guid>
+      <guid>http://localhost:1313/docs/posts/am1_groisman/entrega_2/</guid>
       <description>ANTISELFIE - Segunda entrega </description>
     </item>
     <item>
       <title>AM1 Groisman TP 1 - 1ra entrega</title>
-      <link>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_1/</link>
+      <link>http://localhost:1313/docs/posts/am1_groisman/entrega_1/</link>
       <pubDate>Wed, 29 Mar 2023 16:00:33 -0300</pubDate>
-      <guid>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_1/</guid>
+      <guid>http://localhost:1313/docs/posts/am1_groisman/entrega_1/</guid>
       <description>ANTISELFIE - Primera entrega </description>
     </item>
     <item>
       <title>Quién soy yo?</title>
-      <link>https://simoneeti.github.io/docs/posts/simon/whoami/</link>
+      <link>http://localhost:1313/docs/posts/simon/whoami/</link>
       <pubDate>Wed, 29 Mar 2023 16:00:33 -0300</pubDate>
-      <guid>https://simoneeti.github.io/docs/posts/simon/whoami/</guid>
+      <guid>http://localhost:1313/docs/posts/simon/whoami/</guid>
       <description>nací en el 2001&#xA;me gustan las compus, el fulbo, las plantas, el rock. soy argentino&#xA;hago teatro y software&#xA;nunca voté fascistas&#xA;me llevo bien con mis viejos&#xA;soy poco creativo&#xA;egresé del nacional de buenos aires. no me gustó&#xA;ahora estudio artes multimediales en la una&#xA;tengo un trabajo muy bueno p e r o n o m e g u s t a t r a b a j a r</description>
     </item>
   </channel>

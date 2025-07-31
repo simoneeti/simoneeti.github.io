@@ -6,6 +6,8 @@ publishDir = 'docs'
 
 [params]
 noindex = false
+contentTypeName = "posts"
+
 # Sidebar: about/bio
 [params.about]
 title = "Simón"
