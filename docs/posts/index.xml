@@ -1,159 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Simón Vintrob - UNA</title>
-    <link>https://simoneeti.github.io/docs/posts/</link>
-    <description>Recent content in Posts on Simón Vintrob - UNA</description>
+    <title>Posts on Simón Vintrob</title>
+    <link>http://localhost:1313/docs/posts/</link>
+    <description>Recent content in Posts on Simón Vintrob</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <lastBuildDate>Wed, 26 Apr 2023 16:00:33 -0300</lastBuildDate><atom:link href="https://simoneeti.github.io/docs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Jul 2025 23:39:25 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zwei Jahre Später</title>
+      <link>http://localhost:1313/docs/posts/simon/zwei-jahre-spater/</link>
+      <pubDate>Wed, 30 Jul 2025 23:39:25 -0300</pubDate>
+      <guid>http://localhost:1313/docs/posts/simon/zwei-jahre-spater/</guid>
+      <description>Si diez años después, te vuelvo a encontrar en algún lugar. No te olvides que soy distinto de aquel, pero casi igual&#xA;Dos años más tarde, vuelvo a escribir acá.&#xA;Mucho cambió en dos años, y mucho siguió su curso natural. Por ejemplo, en este país cada vez más decadente ahora gobierna milei (en minúscula). Se cae todo a pedazos en todos lados salvo de Rivadavia para arriba. Todos los miércoles la policía caga a piñas a los jubilados y a los residentes del Garrahan en la plaza de los dos Congresos.</description>
+    </item>
     <item>
       <title>AM1 Groisman TP 1 - Entrega final</title>
-      <link>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_final/</link>
+      <link>http://localhost:1313/docs/posts/am1_groisman/entrega_final/</link>
       <pubDate>Wed, 26 Apr 2023 16:00:33 -0300</pubDate>
-      
-      <guid>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_final/</guid>
+      <guid>http://localhost:1313/docs/posts/am1_groisman/entrega_final/</guid>
       <description>ANTISELFIE - Entrega Final IA </description>
-      <content>&lt;h1 id=&#34;antiselfie---entrega-final&#34;&gt;ANTISELFIE - Entrega Final&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/1_camuli.jpg&#34; alt=&#34;Cama&#34; title=&#34;Cama&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/2_cocina.jpg&#34; alt=&#34;Cocina&#34; title=&#34;Cocina&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/3_cables.jpg&#34; alt=&#34;Cables&#34; title=&#34;Cables&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/4_hojas.jpg&#34; alt=&#34;Hojas&#34; title=&#34;Hojas&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/5_recortes.jpg&#34; alt=&#34;Recortes&#34; title=&#34;Recortes&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/6_basouuura.jpg&#34; alt=&#34;Basouuuuuuura&#34; title=&#34;Basouuuuuuura&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/7_repasador.jpg&#34; alt=&#34;Repasador&#34; title=&#34;Repasador&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/8_xavi.jpg&#34; alt=&#34;Llaves&#34; title=&#34;Llaves&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/9_nueces.jpg&#34; alt=&#34;Nueces&#34; title=&#34;Nueces&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/10_larvy.jpg&#34; alt=&#34;Larvy&#34; title=&#34;Larvy&#34;&gt;&lt;/p&gt;
-&lt;h1 id=&#34;ia&#34;&gt;IA&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/ia/hippiesfascistas.png&#34; alt=&#34;jipis&#34; title=&#34;Cama&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/ia/optimista.png&#34; alt=&#34;jipis&#34; title=&#34;Cama&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/ia/perro.png&#34; alt=&#34;jipis&#34; title=&#34;Cama&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/ia/tutti.png&#34; alt=&#34;jipis&#34; title=&#34;Cama&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_entregafinal/ia/todo_junto.png&#34; alt=&#34;jipis&#34; title=&#34;Cama&#34;&gt;&lt;/p&gt;
-</content>
     </item>
-    
     <item>
       <title>AM1 Groisman TP 1 - 4ta entrega</title>
-      <link>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_4/</link>
+      <link>http://localhost:1313/docs/posts/am1_groisman/entrega_4/</link>
       <pubDate>Wed, 19 Apr 2023 16:00:33 -0300</pubDate>
-      
-      <guid>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_4/</guid>
+      <guid>http://localhost:1313/docs/posts/am1_groisman/entrega_4/</guid>
       <description>ANTISELFIE - Cuarta entrega </description>
-      <content>&lt;h1 id=&#34;antiselfie---cuarta-entrega&#34;&gt;ANTISELFIE - Cuarta entrega&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr4/1_camuli_colored.jpg&#34; alt=&#34;Caminski&#34; title=&#34;Caminski&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr4/2_hojas.jpg&#34; alt=&#34;Matienzo&#34; title=&#34;Matienzo&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr4/3_fasungui.jpg&#34; alt=&#34;Tomatuli&#34; title=&#34;Tomatuli&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr4/4_cables.jpg&#34; alt=&#34;Quilombo&#34; title=&#34;Quilombo&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr4/5_recortes.jpg&#34; alt=&#34;Imperio&#34; title=&#34;Imperio&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr4/7_arrrte.jpg&#34; alt=&#34;Vasos&#34; title=&#34;Vasos&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr4/8_larvy.jpg&#34; alt=&#34;Anochecer&#34; title=&#34;Anochecer&#34;&gt;&lt;/p&gt;
-</content>
     </item>
-    
     <item>
       <title>AM1 Groisman TP 1 - 3ra entrega</title>
-      <link>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_3/</link>
+      <link>http://localhost:1313/docs/posts/am1_groisman/entrega_3/</link>
       <pubDate>Wed, 12 Apr 2023 16:00:33 -0300</pubDate>
-      
-      <guid>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_3/</guid>
+      <guid>http://localhost:1313/docs/posts/am1_groisman/entrega_3/</guid>
       <description>ANTISELFIE - Tercera entrega </description>
-      <content>&lt;h1 id=&#34;antiselfie---tercera-entrega&#34;&gt;ANTISELFIE - Tercera entrega&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr3/1_camuli_colored.jpg&#34; alt=&#34;Caminski&#34; title=&#34;Caminski&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr3/2_matute.jpg&#34; alt=&#34;Matienzo&#34; title=&#34;Matienzo&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr3/3_tomate.jpg&#34; alt=&#34;Tomatuli&#34; title=&#34;Tomatuli&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr3/4_collage.jpg&#34; alt=&#34;Quilombo&#34; title=&#34;Quilombo&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr3/5_calzon.jpg&#34; alt=&#34;Imperio&#34; title=&#34;Imperio&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr3/6_bailanta.jpg&#34; alt=&#34;Luis&#34; title=&#34;Luis&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr3/7_ba%C3%B1o.jpg&#34; alt=&#34;Vasos&#34; title=&#34;Vasos&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr3/8_larvy.jpg&#34; alt=&#34;Anochecer&#34; title=&#34;Anochecer&#34;&gt;&lt;/p&gt;
-</content>
     </item>
-    
     <item>
       <title>Collage namber 1 PV1</title>
-      <link>https://simoneeti.github.io/docs/posts/pv1/collage1/</link>
+      <link>http://localhost:1313/docs/posts/pv1/collage1/</link>
       <pubDate>Fri, 07 Apr 2023 16:00:33 -0300</pubDate>
-      
-      <guid>https://simoneeti.github.io/docs/posts/pv1/collage1/</guid>
+      <guid>http://localhost:1313/docs/posts/pv1/collage1/</guid>
       <description>Collage nro. 1 </description>
-      <content>&lt;h1 id=&#34;collage-nro-1&#34;&gt;Collage nro. 1&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/pv1/original_1.png&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/pv1/collage_byn.jpg&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/pv1/collage_mix.jpg&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;&lt;/p&gt;
-</content>
     </item>
-    
     <item>
       <title>AM1 Groisman TP 1 - 2da entrega</title>
-      <link>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_2/</link>
+      <link>http://localhost:1313/docs/posts/am1_groisman/entrega_2/</link>
       <pubDate>Mon, 03 Apr 2023 16:00:33 -0300</pubDate>
-      
-      <guid>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_2/</guid>
+      <guid>http://localhost:1313/docs/posts/am1_groisman/entrega_2/</guid>
       <description>ANTISELFIE - Segunda entrega </description>
-      <content>&lt;h1 id=&#34;antiselfie---segunda-entrega&#34;&gt;ANTISELFIE - Segunda entrega&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr2/2/0_amanecer_colored.jpg&#34; alt=&#34;Amanecer&#34; title=&#34;Amanecer&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr2/2/1_camuli_colored.jpg&#34; alt=&#34;Caminski&#34; title=&#34;Caminski&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr2/2/2_matute.jpg&#34; alt=&#34;Matienzo&#34; title=&#34;Matienzo&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr2/2/3_tomate.jpg&#34; alt=&#34;Tomatuli&#34; title=&#34;Tomatuli&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr2/2/4_quilombuli.jpg&#34; alt=&#34;Quilombo&#34; title=&#34;Quilombo&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr2/2/5_imperio.jpg&#34; alt=&#34;Imperio&#34; title=&#34;Imperio&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr2/2/6_luis.jpg&#34; alt=&#34;Luis&#34; title=&#34;Luis&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr2/2/7_vasos.jpg&#34; alt=&#34;Vasos&#34; title=&#34;Vasos&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr2/2/8_anochecer.jpg&#34; alt=&#34;Anochecer&#34; title=&#34;Anochecer&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/tp1_corr2/2/9_larvy.jpg&#34; alt=&#34;Lara&#34; title=&#34;Lara&#34;&gt;&lt;/p&gt;
-</content>
     </item>
-    
     <item>
       <title>AM1 Groisman TP 1 - 1ra entrega</title>
-      <link>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_1/</link>
+      <link>http://localhost:1313/docs/posts/am1_groisman/entrega_1/</link>
       <pubDate>Wed, 29 Mar 2023 16:00:33 -0300</pubDate>
-      
-      <guid>https://simoneeti.github.io/docs/posts/am1_groisman/entrega_1/</guid>
+      <guid>http://localhost:1313/docs/posts/am1_groisman/entrega_1/</guid>
       <description>ANTISELFIE - Primera entrega </description>
-      <content>&lt;h1 id=&#34;antiselfie---primera-entrega&#34;&gt;ANTISELFIE - Primera entrega&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/20230326_233633.jpg&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/20230327_082252.jpg&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/20230328_110304.jpg&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/20230328_125957.jpg&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/20230328_135004.jpg&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/20230328_135039.jpg&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/20230328_213044.jpg&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/20230329_143148.jpg&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/20230329_143243.jpg&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;
-&lt;img src=&#34;https://simoneeti.github.io/docs/docs/posts/images/20230329_163417.jpg&#34; alt=&#34;1&#34; title=&#34;1&#34;&gt;&lt;/p&gt;
-</content>
     </item>
-    
     <item>
       <title>Quién soy yo?</title>
-      <link>https://simoneeti.github.io/docs/posts/simon/whoami/</link>
+      <link>http://localhost:1313/docs/posts/simon/whoami/</link>
       <pubDate>Wed, 29 Mar 2023 16:00:33 -0300</pubDate>
-      
-      <guid>https://simoneeti.github.io/docs/posts/simon/whoami/</guid>
-      <description>nací en el 2001
-me gustan las compus, el fulbo, las plantas, el rock. soy argentino
-hago teatro y software
-nunca voté fascistas
-me llevo bien con mis viejos
-soy poco creativo
-egresé del nacional de buenos aires. no me gustó
-ahora estudio artes multimediales en la una
-tengo un trabajo muy bueno p e r o n o m e g u s t a t r a b a j a r</description>
-      <content>&lt;p&gt;nací en el 2001&lt;/p&gt;
-&lt;p&gt;me gustan las compus, el fulbo, las plantas, el rock. soy argentino&lt;/p&gt;
-&lt;p&gt;hago teatro y software&lt;/p&gt;
-&lt;p&gt;nunca voté fascistas&lt;/p&gt;
-&lt;p&gt;me llevo bien con mis viejos&lt;/p&gt;
-&lt;p&gt;soy poco creativo&lt;/p&gt;
-&lt;p&gt;egresé del nacional de buenos aires. no me gustó&lt;/p&gt;
-&lt;p&gt;ahora estudio artes multimediales en la una&lt;/p&gt;
-&lt;p&gt;tengo un trabajo muy bueno p e r o n o m e g u s t a t r a b a j a r&lt;/p&gt;
-</content>
+      <guid>http://localhost:1313/docs/posts/simon/whoami/</guid>
+      <description>nací en el 2001&#xA;me gustan las compus, el fulbo, las plantas, el rock. soy argentino&#xA;hago teatro y software&#xA;nunca voté fascistas&#xA;me llevo bien con mis viejos&#xA;soy poco creativo&#xA;egresé del nacional de buenos aires. no me gustó&#xA;ahora estudio artes multimediales en la una&#xA;tengo un trabajo muy bueno p e r o n o m e g u s t a t r a b a j a r</description>
     </item>
-    
   </channel>
 </rss>
